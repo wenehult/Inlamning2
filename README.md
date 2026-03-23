@@ -11,3 +11,5 @@ Därefter kan jag återställa med: mysql -u root -p Bokhandel < bokhandel_backu
 
 ## Lärdommar och reflektioner från uppgiften
 
+
+![ER-Diagram](Images/ERDiagram.png)
